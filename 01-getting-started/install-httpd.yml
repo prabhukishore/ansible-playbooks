@@ -1,5 +1,5 @@
 - hosts: all
-  remote_user: kishore
+  #remote_user: kishore
   become: true
   vars:
     project_root: /var/www/html
